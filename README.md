@@ -1,6 +1,13 @@
 # What I Learned In Week 10
 
-## Grid Layout
+## Grid Layout 
+Allows to create a grid like layout with rows and columns.
+
+`display: Grid` - makes children of an element to be displayed in grid. 
+
+`grid-template-rows/columns` - used to create rows and columns respectively. 
+
+`grid-row/column` - used to assign a child specific position a grid (i.e. grid-row: 1/2 - will change child's row position, where 1 is the beginning line and 2 is the ending line. grid-column: 1 / span 2 - span allows to make a children certain length)
 
 ## Japanese Grid (Group)
 ## Japanese Grid Big
