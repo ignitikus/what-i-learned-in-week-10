@@ -26,12 +26,31 @@ For example:
         "bot bot bot"
     ;
 
-## Holy Responsive Grid
+## [Holy Responsive Grid](https://github.com/ignitikus/holy-responsive-grid)
+@media and grid layout.
 
-## JaS Object
+
+## JavaScript Object
+
+Object is an array without indexes. 
+
+For example:
+
+    let person = {
+        firstName: 'Keanu',
+        lastName: 'Reeves',
+        age: 55,
+        eyeColor: 'Brown'
+    }
+
+firstName, lastName, age, eyeColor - properties of the variable `person`. 'Keanu', 'Reeves', 55, 'Brown' - values of those properties. 
+
+Examples on how to access properties:
+
+    person.firstName or person['firstName']
+
 
 ## Code Wars
-
 ### [Abbreviate a Two Word Name](https://www.codewars.com/kata/abbreviate-a-two-word-name/javascript) 
 - Write a function to convert a name into initials. This kata strictly takes two words with one space in between them.
 The output should be two capital letters with a dot separating them.
