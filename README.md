@@ -15,7 +15,17 @@ The goal of the exercise is to recreate goal image using grid layout.
 ## [Japanese Grid Big](https://github.com/ignitikus/japanese-grid-big)
 Expansion of japanese grid exercise. 
 
-## Holy Grid 1 & 2
+## [Holy Grid 1 & 2](https://github.com/ignitikus/holy-grid-template-areas) 
+`grid-template-areas` - allows to create a map of a grid and assign names for certain areas in the grid. 
+
+For example:
+
+    grid-template-areas:
+        "top top top"
+        "mid mid mid"
+        "bot bot bot"
+    ;
+
 ## Holy Responsive Grid
 
 ## JaS Object
